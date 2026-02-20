@@ -2,5 +2,4 @@ pandas
 numpy
 plotly
 streamlit
-jupyter
-notebook
+altair
